@@ -26,7 +26,7 @@ const Nav = () => {
             </div>
             {/* button  */}
             <div className="flex gap-3">
-              <button className="rounded-full p-3"></button>
+              <button className="rounded-full p-3 m-0"></button>
             <p>Get In Touch</p>  
             </div>
             

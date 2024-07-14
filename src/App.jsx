@@ -1,6 +1,7 @@
 
 import Nav from './Components/Nav'
 import './App.css'
+import Header from './Components/Header'
 
 function App() {
 
@@ -8,7 +9,9 @@ function App() {
   return (
     <>
       <Nav />
-      <p className="text-5xl">hello</p>
+      <div className='space-x-32'>
+        <Header/>
+      </div>
     </>
   )
 }

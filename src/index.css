@@ -5,6 +5,8 @@
   button{
       background: linear-gradient(135deg, #665DCD 0%, #5FA4E6 44.76%, #D2AB67 100%);
       padding: 8px 12px;
+      margin: 20px auto;
+      border-radius: 6px;
   }
   .outline{
     border: 1px solid linear-gradient(135deg, #665DCD 0%, #5FA4E6 44.76%, #D2AB67 100%);
